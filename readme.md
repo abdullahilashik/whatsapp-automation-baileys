@@ -1,0 +1,1 @@
+Uses Baileys to create a bot that turns your private number an turn it into a fully working chatbot. This is just a primary phase; working version.
